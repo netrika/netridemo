@@ -1,0 +1,2 @@
+# netridemo
+first git repo
