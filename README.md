@@ -1,3 +1,3 @@
 # netridemo
 first git repo
-Author: Netrika
+Author: Netrika (gupta)
